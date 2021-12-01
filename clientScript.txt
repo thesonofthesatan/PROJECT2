@@ -1,0 +1,47 @@
+mayur@mayur-VirtualBox:~/Downloads/rdt$ ./client test.txt 0.3 0.2
+Corrupted, sequence number: 4, Sending NACK
+Lost packet, sequence number: 5, Sending nothing. Waiting for server to resend
+Corrupted, sequence number: 6, Sending NACK
+Lost packet, sequence number: 6, Sending nothing. Waiting for server to resend
+Lost packet, sequence number: 10, Sending nothing. Waiting for server to resend
+Corrupted, sequence number: 15, Sending NACK
+Corrupted, sequence number: 19, Sending NACK
+Corrupted, sequence number: 20, Sending NACK
+Lost packet, sequence number: 21, Sending nothing. Waiting for server to resend
+Lost packet, sequence number: 29, Sending nothing. Waiting for server to resend
+Corrupted, sequence number: 29, Sending NACK
+Lost packet, sequence number: 35, Sending nothing. Waiting for server to resend
+Corrupted, sequence number: 35, Sending NACK
+Corrupted, sequence number: 36, Sending NACK
+Lost packet, sequence number: 36, Sending nothing. Waiting for server to resend
+Lost packet, sequence number: 40, Sending nothing. Waiting for server to resend
+Corrupted, sequence number: 42, Sending NACK
+Lost packet, sequence number: 42, Sending nothing. Waiting for server to resend
+Lost packet, sequence number: 44, Sending nothing. Waiting for server to resend
+Lost packet, sequence number: 46, Sending nothing. Waiting for server to resend
+Lost packet, sequence number: 47, Sending nothing. Waiting for server to resend
+Corrupted, sequence number: 51, Sending NACK
+Corrupted, sequence number: 53, Sending NACK
+Corrupted, sequence number: 56, Sending NACK
+Lost packet, sequence number: 62, Sending nothing. Waiting for server to resend
+Lost packet, sequence number: 66, Sending nothing. Waiting for server to resend
+Lost packet, sequence number: 68, Sending nothing. Waiting for server to resend
+Corrupted, sequence number: 68, Sending NACK
+Corrupted, sequence number: 69, Sending NACK
+Corrupted, sequence number: 70, Sending NACK
+Lost packet, sequence number: 70, Sending nothing. Waiting for server to resend
+Lost packet, sequence number: 73, Sending nothing. Waiting for server to resend
+Lost packet, sequence number: 74, Sending nothing. Waiting for server to resend
+Lost packet, sequence number: 78, Sending nothing. Waiting for server to resend
+Corrupted, sequence number: 78, Sending NACK
+Lost packet, sequence number: 79, Sending nothing. Waiting for server to resend
+Corrupted, sequence number: 80, Sending NACK
+Corrupted, sequence number: 84, Sending NACK
+Corrupted, sequence number: 85, Sending NACK
+Corrupted, sequence number: 89, Sending NACK
+Corrupted, sequence number: 91, Sending NACK
+Corrupted, sequence number: 95, Sending NACK
+Corrupted, sequence number: 97, Sending NACK
+Corrupted, sequence number: 98, Sending NACK
+mayur@mayur-VirtualBox:~/Downloads/rdt$ 
+

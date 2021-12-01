@@ -1,0 +1,150 @@
+mayur@mayur-VirtualBox:~/Downloads/rdt$ ./server 
+-----------------
+Server Started
+-----------------
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+NACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+NACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+NACK Received!
+ACK Received!
+NACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+ACK Received!
+NACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+NACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+NACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+ACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+NACK Received!
+ACK Received!
+Nothing Received! Resending packet!
+ACK Received!
+NACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+NACK Received!
+ACK Received!
+ACK Received!
+mayur@mayur-VirtualBox:~/Downloads/rdt$ 
+
